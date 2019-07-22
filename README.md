@@ -4,5 +4,5 @@ Get the total uptime and average daily uptime of your Mac since you first got it
 # To run:
 Either:
 Checkout the repo and run `python script.py` in the directory
-- or -
+or
 Copy the code into a file called script.py in some local directory and run `python script.py` in that directory.
